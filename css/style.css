@@ -49,6 +49,7 @@ h1{
 
 .mobilenav{
 	font-size: 50px;
+	cursor: pointer;
 }
 
 .navlist{
@@ -112,7 +113,7 @@ h1{
     text-align:center; 
 	
 	background-color:#192a56; 
-	padding: 8%; 
+	padding: 5%; 
 	font-size:30px;
 	color: #fff;
 }
@@ -130,7 +131,7 @@ h1{
 .Explore{
 	text-align:center; 
 	background-color:#192a56; 
-	padding: 8%; 
+	padding: 3%; 
 	font-size:30px;
 	color: #fff;
 }
